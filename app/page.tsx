@@ -243,7 +243,7 @@ export default function Home() {
 
           <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-[#071d3c] shadow-2xl">
             <Image
-              src="/images/campaign-image-3.jpg"
+              src="/images/campaign-image-3-new.png"
               alt="Trimaine Wilson for Mayor campaign graphic"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
