@@ -367,11 +367,6 @@ export default function Home() {
         </p>
 
         <p className="mt-2">Forest Park, Illinois</p>
-
-        <p className="mt-3">
-          Campaign committee and required disclosure information pending
-          confirmation.
-        </p>
       </footer>
     </main>
   );
