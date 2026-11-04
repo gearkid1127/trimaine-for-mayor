@@ -158,7 +158,7 @@ export default function Home() {
       >
         <div className="absolute inset-0">
           <Image
-            src="/images/hero.png"
+            src="/images/hero-office.png"
             alt="Illustrated campaign portrait of Trimaine Wilson in Forest Park"
             fill
             priority
@@ -243,7 +243,7 @@ export default function Home() {
 
           <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-[#071d3c] shadow-2xl">
             <Image
-              src="/images/campaign-image-3-new.png"
+              src="/images/campaign-image-3.png"
               alt="Trimaine Wilson for Mayor campaign graphic"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
