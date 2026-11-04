@@ -163,7 +163,7 @@ export default function Home() {
             fill
             priority
             sizes="100vw"
-            className="object-cover object-center"
+            className="object-cover object-top"
           />
 
           <div className="absolute inset-0 bg-gradient-to-r from-[#071d3c]/90 via-[#071d3c]/40 to-transparent" />
@@ -240,14 +240,13 @@ export default function Home() {
               </p>
             </div>
           </div>
-
-          <div className="relative aspect-[4/5] overflow-hidden rounded-3xl bg-[#071d3c] shadow-2xl">
+          <div className="relative aspect-[2/3] overflow-hidden rounded-3xl bg-[#071d3c] shadow-2xl">
             <Image
               src="/images/campaign-image-3.png"
               alt="Trimaine Wilson for Mayor campaign graphic"
               fill
               sizes="(max-width: 768px) 100vw, 50vw"
-              className="object-cover object-top"
+              className="object-contain"
             />
           </div>
         </div>
