@@ -163,7 +163,7 @@ export default function Home() {
             fill
             priority
             sizes="100vw"
-            className="object-cover object-top"
+            className="object-cover object-[70%_top] md:object-top"
           />
 
           <div className="absolute inset-0 bg-gradient-to-r from-[#071d3c]/90 via-[#071d3c]/40 to-transparent" />
